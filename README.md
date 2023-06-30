@@ -1,2 +1,2 @@
 # promotion-guide
-晋升指南
+内部晋升指南
